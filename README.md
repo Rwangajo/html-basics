@@ -1,1 +1,2 @@
-# html-basics
+# Teaching how html works
+
